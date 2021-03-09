@@ -1,7 +1,7 @@
 # Hacker Rank - Disk Space Analysis
 C# solution for HackerRank's Disk space analysis challenge.
 
-## Idea
+## Example
 For following array `[2, 5, 4, 6, 8]` with `x = 3`, the answer is `4` _see below_
 
 The chunks would be:
@@ -9,7 +9,7 @@ The chunks would be:
 - `[5, 4, 6]` -> min: `4`
 - `[4, 6, 8]` -> min: `4`
 
-### Steps
+### Solution
 1. Find minimum for first chunk
 2. For next chunks 2 different situations could happen
 

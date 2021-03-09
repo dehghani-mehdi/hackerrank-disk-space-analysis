@@ -9,7 +9,7 @@ The chunks would be:
 - `[5, 4, 6]` -> min: `4`
 - `[4, 6, 8]` -> min: `4`
 
-### Solution
+## Solution
 1. Find minimum for first chunk
 2. For next chunks 2 different situations could happen
 
